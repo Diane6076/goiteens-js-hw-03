@@ -9,7 +9,7 @@ console.log(email.length);
 const oneOnlyMy = 'my';
 const twoOnlyName = 'name';
 const threeonlyIs = 'is';
-const fullName = oneOnlyMy + '' + twoOnlyName + '' +threeonlyIs + 'Viktor ';
+const fullName = oneOnlyMy + ' ' + twoOnlyName + ' ' +threeonlyIs + 'Viktor ';
 console.log(fullName);
 
 
